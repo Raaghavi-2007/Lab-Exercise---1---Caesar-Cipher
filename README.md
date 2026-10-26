@@ -8,7 +8,7 @@ Step 1:
 Design of Caeser Cipher algorithnm
 
 Step 2: 
-Implementation using C or pyhton code
+Implementation using C or python code
 
 Step 3: 
  1. In Ceaser Cipher each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
