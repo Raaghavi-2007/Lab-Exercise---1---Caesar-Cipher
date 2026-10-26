@@ -1,8 +1,5 @@
 # Lab-Exercise---1---Caesar-Cipher
 
-# Caeser Cipher:
-  Caeser Cipher using with different key values
-  
 # Aim:
   To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
   
